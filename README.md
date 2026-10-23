@@ -211,18 +211,30 @@ uptoskills :: ai product engineer team
 <tr>
 <td width="52%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manbir-2005&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;icon_color=38bdf8&amp;text_color=e6edf3" alt="GitHub statistics for manbir-2005 — stars, commits, PRs, issues and contributions" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=manbir-2005&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;icon_color=38bdf8&amp;text_color=e6edf3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=manbir-2005&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0,f6f8fa,ffffff&amp;title_color=0e7490&amp;icon_color=0891b2&amp;text_color=24292f" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manbir-2005&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;icon_color=38bdf8&amp;text_color=e6edf3" alt="GitHub statistics for manbir-2005 — stars, commits, PRs, issues and contributions" width="100%" />
+</picture>
 
 </td>
 <td width="46%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manbir-2005&amp;layout=compact&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;text_color=e6edf3&amp;langs_count=8" alt="Most used languages of manbir-2005 on GitHub" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manbir-2005&amp;layout=compact&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;text_color=e6edf3&amp;langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manbir-2005&amp;layout=compact&amp;hide_border=true&amp;bg_color=0,f6f8fa,ffffff&amp;title_color=0e7490&amp;text_color=24292f&amp;langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manbir-2005&amp;layout=compact&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;text_color=e6edf3&amp;langs_count=8" alt="Most used languages of manbir-2005 on GitHub" width="100%" />
+</picture>
 
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=manbir-2005&amp;locale=en&amp;hide_border=true&amp;background=05070D&amp;stroke=1E2A45&amp;ring=22D3EE&amp;fire=8B5CF6&amp;currStreakNum=E6EDF3&amp;sideNums=67E8F9&amp;sideLabels=8B949E&amp;dates=64748B&amp;currStreakLabel=67E8F9" alt="GitHub contribution streak for manbir-2005" width="66%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=manbir-2005&amp;locale=en&amp;hide_border=true&amp;background=05070D&amp;stroke=1E2A45&amp;ring=22D3EE&amp;fire=8B5CF6&amp;currStreakNum=E6EDF3&amp;sideNums=67E8F9&amp;sideLabels=8B949E&amp;dates=64748B&amp;currStreakLabel=67E8F9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=manbir-2005&amp;locale=en&amp;hide_border=true&amp;background=F6F8FA&amp;stroke=DBE3EE&amp;ring=0891B2&amp;fire=7C3AED&amp;currStreakNum=24292F&amp;sideNums=0E7490&amp;sideLabels=57606A&amp;dates=8B949E&amp;currStreakLabel=0891B2" />
+  <img src="https://streak-stats.demolab.com?user=manbir-2005&amp;locale=en&amp;hide_border=true&amp;background=05070D&amp;stroke=1E2A45&amp;ring=22D3EE&amp;fire=8B5CF6&amp;currStreakNum=E6EDF3&amp;sideNums=67E8F9&amp;sideLabels=8B949E&amp;dates=64748B&amp;currStreakLabel=67E8F9" alt="GitHub contribution streak for manbir-2005" width="66%" />
+</picture>
 
 <!-- Contribution snake — generated daily by .github/workflows/snake.yml into the `output` branch.
      Fallback if the action hasn't run yet: this block simply shows nothing until the first run completes. -->
@@ -247,7 +259,7 @@ uptoskills :: ai product engineer team
 
 <br/>
 
-<sub>▪ stat widgets render <b>live</b> from public GitHub data via standard open services ▪ custom SVG artwork is decorative and never poses as data</sub>
+<sub>▪ stat widgets render <b>live</b> from public GitHub data via standard open services ▪ custom SVG artwork is decorative and never poses as data ▪ every visual is <b>theme-aware</b> — switch your appearance (light ⇄ dark) and the whole palette follows</sub>
 
 </div>
 
