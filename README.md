@@ -13,6 +13,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1100&amp;duration=2600&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=40&amp;repeat=true&amp;lines=AI%2FML+Developer;Generative+AI+Explorer;AI+Product+Engineer;Senior+Team+Leader+%40+UpToSkills;Final-Year+B.Tech+CSE;Building+Intelligent+AI+Products" alt="Rotating roles: AI/ML Developer, Generative AI Explorer, AI Product Engineer, Senior Team Leader at UpToSkills, Final-Year B.Tech CSE, Building Intelligent AI Products" />
 </a>
 
+<img src="assets/hud-badges.svg" alt="HUD status chips: AI/ML Developer · Team Lead at UpToSkills · B.Tech CSE Final Year · Mode: Building" width="100%" />
+
 <img src="assets/divider.svg" alt="" width="100%" />
 
 </div>
@@ -30,7 +32,7 @@
 │  stack       python · ml · deep learning · llms · rag
 │  status      ● interning @ uptoskills — learning in production
 │
-└─╯  run `manbir --connect` in the footer to open a channel
+└─╯  run `manbir --connect` in the footer to open a channel ▌
 ```
 
 <div align="center">
@@ -40,14 +42,14 @@
 
 <!-- ════════════════════ what i build ════════════════════ -->
 
-## ▛ WHAT I BUILD
+<h2 align="center">▛ WHAT I BUILD</h2>
 
 | module | in practice |
 |---|---|
-| **predictive data products** | ocean data visualisation & prediction → `ocean-bed` |
-| **applied ai tooling** | ai-powered python code analysis → `forge-ai` |
-| **genai systems** | llm pipelines · prompt design · retrieval patterns — *learning in public* |
-| **team execution** | leading & coordinating an ai product engineer team @ uptoskills |
+| **predictive data products** `● live` | ocean data visualisation & prediction → `ocean-bed` |
+| **applied ai tooling** `● building` | ai-powered python code analysis → `forge-ai` |
+| **genai systems** `● studying` | llm pipelines · prompt design · retrieval patterns — *learning in public* |
+| **team execution** `● active` | leading & coordinating an ai product engineer team @ uptoskills |
 
 <div align="center">
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -55,7 +57,7 @@
 
 <!-- ════════════════════ tech stack ════════════════════ -->
 
-## ▛ TECH STACK
+<h2 align="center">▛ TECH STACK</h2>
 
 <div align="center">
 
@@ -109,6 +111,10 @@
 
 `▮ solid icons — working knowledge | ▮ violet tags & study rows — active learning zone (not claimed mastery)`
 
+<br/>
+
+<img src="assets/marquee.svg" alt="Scrolling technology stream: Python, PyTorch, TensorFlow, Keras, LLMs, RAG, Prompt Engineering, NumPy, Pandas, Git, Docker, OpenCV" width="100%" />
+
 </div>
 
 <div align="center">
@@ -117,7 +123,7 @@
 
 <!-- ════════════════════ projects ════════════════════ -->
 
-## ▛ PROJECT LOG
+<h2 align="center">▛ PROJECT LOG</h2>
 
 <table>
 <tr><td width="50%" valign="top">
@@ -173,7 +179,7 @@ AI-assisted code review.
 
 <!-- ════════════════════ role & leadership ════════════════════ -->
 
-## ▛ CURRENT MISSION — UPTOSKILLS
+<h2 align="center">▛ CURRENT MISSION — UPTOSKILLS</h2>
 
 <div align="center">
 <img src="assets/team-net.svg" alt="AI Product Engineer team network — senior team leader coordinating AI products, collaboration and problem solving" width="42%" />
@@ -200,7 +206,7 @@ uptoskills :: ai product engineer team
 
 <!-- ════════════════════ github analytics ════════════════════ -->
 
-## ▛ TELEMETRY — GITHUB ANALYTICS
+<h2 align="center">▛ TELEMETRY — GITHUB ANALYTICS</h2>
 
 <div align="center">
 
@@ -227,6 +233,10 @@ uptoskills :: ai product engineer team
 <img src="https://komarev.com/ghpvc/?username=ms2oo5&amp;label=TELEMETRY%20%2F%20PROFILE+VIEWS&amp;color=0e7490&amp;style=flat-square" alt="Profile view counter" />
 -->
 
+<br/>
+
+<sub>▪ stat widgets render <b>live</b> from public GitHub data via standard open services ▪ custom SVG artwork is decorative and never poses as data</sub>
+
 </div>
 
 <div align="center">
@@ -235,7 +245,7 @@ uptoskills :: ai product engineer team
 
 <!-- ════════════════════ currently exploring ════════════════════ -->
 
-## ▛ CURRENTLY EXPLORING
+<h2 align="center">▛ CURRENTLY EXPLORING</h2>
 
 <div align="center">
 
@@ -259,7 +269,7 @@ loading research queue ...
 
 <!-- ════════════════════ connect ════════════════════ -->
 
-## ▛ OPEN A CHANNEL
+<h2 align="center">▛ OPEN A CHANNEL</h2>
 
 <div align="center">
 
@@ -284,6 +294,11 @@ loading research queue ...
 <!-- ════════════════════ footer ════════════════════ -->
 
 <div align="center">
+
+<img src="assets/connection-bar.svg" alt="Connection status: channel open" width="62%" />
+
+<br/><br/>
+
 <img src="assets/signature.svg" alt="Signature — engineered by Manbir Singh" width="320" />
 
 <br/>
