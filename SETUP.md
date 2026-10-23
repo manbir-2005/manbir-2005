@@ -35,8 +35,9 @@ A complete asset kit for a custom, animated GitHub profile:
 
 3. **Activate the snake** (needs one manual run for the first render):
    - Repo → **Actions** tab → *Contribution Snake* → **Run workflow** → Run.
-   - Wait ~1 minute. The action creates an `output` branch with two SVGs.
-     The README's `<picture>` element picks them up automatically (dark mode + light mode).
+   - Wait ~1 minute. The action creates an `output` branch with the snake SVGs.
+     The README pins the dark-palette variant (`github-contribution-grid-snake-dark.svg`) —
+     the profile is locked to a permanent dark theme, so no light twin is needed.
    - From then on it refreshes automatically (cron: daily at 00:00 IST) and on every push to `main`.
    - *No secrets needed — the workflow uses the built-in `GITHUB_TOKEN`.*
 
@@ -75,7 +76,7 @@ SVGs are decoration and never claim to be live data.
 | Add a project | duplicate one of the two real `<td>` cards in *Project Log* and replace a reserved slot |
 | Update roles typed in the hero area | edit the `lines=` parameter in the `readme-typing-svg.demolab.com` URL (use `%20` for spaces, `%2C` for commas, `;` to separate lines) |
 | Change the palette | edit the SVG gradient stops (`#22d3ee` cyan → `#818cf8`/`#a78bfa` violet) and the `title_color/color_*` params in the widget URLs |
-| New tech icon | append its id (comma-separated) to any `https://skillicons.dev/icons?i=...` URL — ids verified working: python, cpp, js, mysql, numpy, pandas, tensorflow, keras, pytorch, opencv, git, github, docker, vscode, html, css |
+| New tech icon | use a raw devicon URL — `https://raw.githubusercontent.com/devicons/devicon/master/icons/<name>/<name>-original.svg` (verified: python, cplusplus, javascript, mysql, numpy, pandas, tensorflow, pytorch, keras, opencv, git, docker, vscode, html5, css3) or a tinted `https://cdn.simpleicons.org/<slug>/<hex>` for monochrome marks (github → `E6EDF3`, keras → `A78BFA`). Avoid `skillicons.dev` — it rate-limits and vanishes |
 | Slow down the hero typing | change `dur="5.2s"` on both the `<rect>` width animate and the cursor `x` animate in `assets/hero-banner.svg` (keep the two `values` lists in step) |
 
 ## 5. Files created
