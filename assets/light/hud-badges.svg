@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 64" width="820" height="64" role="img" aria-label="Status chips: AI/ML Developer, Team Lead at UpToSkills, B.Tech CSE final year, Mode building — light theme">
+  <defs>
+    <linearGradient id="chipFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f2f5fb"/>
+    </linearGradient>
+    <linearGradient id="hudShimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#0ea5e9" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#0ea5e9" stop-opacity="0.10"/>
+      <stop offset="1"   stop-color="#0ea5e9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <rect x="6" y="12" width="188" height="40" rx="9" fill="url(#chipFill)" stroke="#d3ddec" stroke-width="1"/>
+    <path d="M6 21 V12 H15" fill="none" stroke="#0891b2" stroke-width="1.4"/>
+    <line x1="16" y1="13" x2="66" y2="13" stroke="#0891b2" opacity="0.3"/>
+    <circle cx="22" cy="32" r="3.2" fill="#0891b2">
+      <animate attributeName="opacity" calcMode="discrete" values="1;0.3" keyTimes="0;0.7" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="34" y="36" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="1" fill="#3d4856">AI/ML DEVELOPER</text>
+  </g>
+
+  <g>
+    <rect x="212" y="12" width="188" height="40" rx="9" fill="url(#chipFill)" stroke="#d3ddec" stroke-width="1"/>
+    <path d="M212 21 V12 H221" fill="none" stroke="#7c3aed" stroke-width="1.4"/>
+    <line x1="222" y1="13" x2="272" y2="13" stroke="#7c3aed" opacity="0.3"/>
+    <circle cx="228" cy="32" r="3.2" fill="#7c3aed">
+      <animate attributeName="opacity" calcMode="discrete" values="1;0.3" keyTimes="0;0.7" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="240" y="36" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="1" fill="#3d4856">TEAM LEAD · UPTOSKILLS</text>
+  </g>
+
+  <g>
+    <rect x="418" y="12" width="188" height="40" rx="9" fill="url(#chipFill)" stroke="#d3ddec" stroke-width="1"/>
+    <path d="M418 21 V12 H427" fill="none" stroke="#0284c7" stroke-width="1.4"/>
+    <line x1="428" y1="13" x2="478" y2="13" stroke="#0284c7" opacity="0.3"/>
+    <circle cx="434" cy="32" r="3.2" fill="#0284c7">
+      <animate attributeName="opacity" calcMode="discrete" values="1;0.3" keyTimes="0;0.7" dur="1.6s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="446" y="36" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="1" fill="#3d4856">B.TECH CSE FINAL YEAR</text>
+  </g>
+
+  <g>
+    <rect x="624" y="12" width="188" height="40" rx="9" fill="url(#chipFill)" stroke="#d3ddec" stroke-width="1"/>
+    <path d="M624 21 V12 H633" fill="none" stroke="#4f46e5" stroke-width="1.4"/>
+    <line x1="634" y1="13" x2="684" y2="13" stroke="#4f46e5" opacity="0.3"/>
+    <circle cx="640" cy="32" r="3.2" fill="#4f46e5">
+      <animate attributeName="opacity" calcMode="discrete" values="1;0.3" keyTimes="0;0.7" dur="1.6s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="652" y="36" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="1" fill="#3d4856">MODE · BUILDING</text>
+  </g>
+
+  <rect x="-70" y="0" width="70" height="64" fill="url(#hudShimmer)">
+    <animate attributeName="x" values="-70;890" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 170" width="480" height="170" role="img" aria-label="Ocean Bed — animated ocean data waves — light theme">
+  <defs>
+    <linearGradient id="obBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4f9fe"/>
+      <stop offset="1" stop-color="#e9f2fa"/>
+    </linearGradient>
+    <linearGradient id="depth" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0891b2" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#0891b2" stop-opacity="0.03"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="480" height="170" rx="12" fill="url(#obBg)" stroke="#bcd7e8" stroke-width="1"/>
+
+  <text x="18" y="26" font-family="ui-monospace, Consolas, monospace" font-size="10" fill="#0e7490" letter-spacing="2" opacity="0.95">OCEAN-BED // DATA STREAM</text>
+
+  <!-- sonar rings -->
+  <g fill="none" stroke="#0e7490">
+    <circle cx="420" cy="52" r="5" opacity="0.9">
+      <animate attributeName="r" values="4;30" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="420" cy="52" r="5" opacity="0.9">
+      <animate attributeName="r" values="4;30" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="420" cy="52" r="4" fill="#0e7490" stroke="none"/>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;-720 0" dur="19s" repeatCount="indefinite"/>
+    <path fill="url(#depth)" opacity="0.5" d="M0 135 C60 105,120 105,180 135 C240 165,300 165,360 135 C420 105,480 105,540 135 C600 165,660 165,720 135 C780 105,840 105,900 135 C960 165,1020 165,1080 135 C1140 105,1200 105,1260 135 C1320 165,1380 165,1440 135 L1440 170 L0 170 Z"/>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-360 0;-1080 0" dur="13s" repeatCount="indefinite"/>
+    <path fill="#0ea5e9" opacity="0.2" d="M0 100 C60 130,120 130,180 100 C240 70,300 70,360 100 C420 130,480 130,540 100 C600 70,660 70,720 100 C780 130,840 130,900 100 C960 70,1020 70,1080 100 C1140 130,1200 130,1260 100 C1320 70,1380 70,1440 100 L1440 170 L0 170 Z"/>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;-720 0" dur="9s" repeatCount="indefinite"/>
+    <path fill="#38bdf8" opacity="0.22" d="M0 70 C60 40,120 40,180 70 C240 100,300 100,360 70 C420 40,480 40,540 70 C600 100,660 100,720 70 C780 40,840 40,900 70 C960 100,1020 100,1080 70 C1140 40,1200 40,1260 70 C1320 100,1380 100,1440 70 L1440 170 L0 170 Z"/>
+  </g>
+</svg>

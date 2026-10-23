@@ -5,17 +5,33 @@
 
 <div align="center">
 
-<img src="assets/hero-banner.svg" alt="Manbir Singh — AI/ML Developer · GenAI Explorer · AI Product Engineer — animated neural network banner" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-banner.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/hero-banner.svg" />
+  <img src="assets/hero-banner.svg" alt="Manbir Singh — AI/ML Developer · GenAI Explorer · AI Product Engineer — animated neural network banner" width="100%" />
+</picture>
 
 <br/>
 
 <a href="https://github.com/manbir-2005">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1100&amp;duration=2600&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=40&amp;repeat=true&amp;lines=AI%2FML+Developer;Generative+AI+Explorer;AI+Product+Engineer;Senior+Team+Leader+%40+UpToSkills;Final-Year+B.Tech+CSE;Building+Intelligent+AI+Products" alt="Rotating roles: AI/ML Developer, Generative AI Explorer, AI Product Engineer, Senior Team Leader at UpToSkills, Final-Year B.Tech CSE, Building Intelligent AI Products" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1100&amp;duration=2600&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=40&amp;repeat=true&amp;lines=AI%2FML+Developer;Generative+AI+Explorer;AI+Product+Engineer;Senior+Team+Leader+%40+UpToSkills;Final-Year+B.Tech+CSE;Building+Intelligent+AI+Products" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1100&amp;duration=2600&amp;color=0E7490&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=40&amp;repeat=true&amp;lines=AI%2FML+Developer;Generative+AI+Explorer;AI+Product+Engineer;Senior+Team+Leader+%40+UpToSkills;Final-Year+B.Tech+CSE;Building+Intelligent+AI+Products" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1100&amp;duration=2600&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=40&amp;repeat=true&amp;lines=AI%2FML+Developer;Generative+AI+Explorer;AI+Product+Engineer;Senior+Team+Leader+%40+UpToSkills;Final-Year+B.Tech+CSE;Building+Intelligent+AI+Products" alt="Rotating roles: AI/ML Developer, Generative AI Explorer, AI Product Engineer, Senior Team Leader at UpToSkills, Final-Year B.Tech CSE, Building Intelligent AI Products" />
+  </picture>
 </a>
 
-<img src="assets/hud-badges.svg" alt="HUD status chips: AI/ML Developer · Team Lead at UpToSkills · B.Tech CSE Final Year · Mode: Building" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hud-badges.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/hud-badges.svg" />
+  <img src="assets/hud-badges.svg" alt="HUD status chips: AI/ML Developer · Team Lead at UpToSkills · B.Tech CSE Final Year · Mode: Building" width="100%" />
+</picture>
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg" />
+  <img src="assets/divider.svg" alt="" width="100%" />
+</picture>
 
 </div>
 
@@ -37,7 +53,11 @@
 
 <div align="center">
 <br/>
-<img src="assets/divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg" />
+  <img src="assets/divider.svg" alt="" width="100%" />
+</picture>
 </div>
 
 <!-- ════════════════════ what i build ════════════════════ -->
@@ -46,12 +66,20 @@
 
 <div align="center">
 
-<img src="assets/modules.svg" alt="Four build modules: predictive data products (live — ocean-bed), applied AI tooling (building — forge-ai), GenAI systems (studying — learning in public), team execution (active — AI Product Engineer team at UpToSkills)" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/modules.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/modules.svg" />
+  <img src="assets/modules.svg" alt="Four build modules: predictive data products (live — ocean-bed), applied AI tooling (building — forge-ai), GenAI systems (studying — learning in public), team execution (active — AI Product Engineer team at UpToSkills)" width="100%" />
+</picture>
 
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg" />
+  <img src="assets/divider.svg" alt="" width="100%" />
+</picture>
 </div>
 
 <!-- ════════════════════ tech stack ════════════════════ -->
@@ -60,7 +88,11 @@
 
 <div align="center">
 
-<img src="assets/rack-languages.svg" alt="Rack 01 — Languages" width="330" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rack-languages.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/rack-languages.svg" />
+  <img src="assets/rack-languages.svg" alt="Rack 01 — Languages" width="330" />
+</picture>
 
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="52" /></a>
 <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="52" /></a>
@@ -69,14 +101,22 @@
 
 <br/>
 
-<img src="assets/rack-data.svg" alt="Rack 02 — Data Science" width="330" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rack-data.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/rack-data.svg" />
+  <img src="assets/rack-data.svg" alt="Rack 02 — Data Science" width="330" />
+</picture>
 
 <a href="https://numpy.org"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="52" /></a>
 <a href="https://pandas.pydata.org"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="52" /></a>
 
 <br/>
 
-<img src="assets/rack-aiml.svg" alt="Rack 03 — AI and ML, deep in study" width="330" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rack-aiml.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/rack-aiml.svg" />
+  <img src="assets/rack-aiml.svg" alt="Rack 03 — AI and ML, deep in study" width="330" />
+</picture>
 
 <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="52" /></a>
 <a href="https://keras.io"><img src="https://skillicons.dev/icons?i=keras" alt="Keras" width="52" /></a>
@@ -85,13 +125,25 @@
 
 <br/>
 
-<img src="assets/rack-genai.svg" alt="Rack 04 — Generative AI exploration" width="330" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rack-genai.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/rack-genai.svg" />
+  <img src="assets/rack-genai.svg" alt="Rack 04 — Generative AI exploration" width="330" />
+</picture>
 
-<img src="assets/focus-rack.svg" alt="Focus areas in active study: Data Viz, Model Eval, LLMs, Transformers, Prompting, LangChain, RAG" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-rack.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/focus-rack.svg" />
+  <img src="assets/focus-rack.svg" alt="Focus areas in active study: Data Viz, Model Eval, LLMs, Transformers, Prompting, LangChain, RAG" width="100%" />
+</picture>
 
 <br/>
 
-<img src="assets/rack-tools.svg" alt="Rack 05 — Tools and Web" width="330" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rack-tools.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/rack-tools.svg" />
+  <img src="assets/rack-tools.svg" alt="Rack 05 — Tools and Web" width="330" />
+</picture>
 
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="52" /></a>
 <a href="https://github.com/manbir-2005"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="52" /></a>
@@ -106,12 +158,20 @@
 
 <br/>
 
-<img src="assets/marquee.svg" alt="Scrolling technology stream: Python, PyTorch, TensorFlow, Keras, LLMs, RAG, Prompt Engineering, NumPy, Pandas, Git, Docker, OpenCV" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/marquee.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/marquee.svg" />
+  <img src="assets/marquee.svg" alt="Scrolling technology stream: Python, PyTorch, TensorFlow, Keras, LLMs, RAG, Prompt Engineering, NumPy, Pandas, Git, Docker, OpenCV" width="100%" />
+</picture>
 
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg" />
+  <img src="assets/divider.svg" alt="" width="100%" />
+</picture>
 </div>
 
 <!-- ════════════════════ projects ════════════════════ -->
@@ -121,7 +181,11 @@
 <table>
 <tr><td width="50%" valign="top">
 
-<a href="https://ocean-bed.netlify.app/"><img src="assets/wave-art.svg" alt="Ocean Bed — animated ocean data waves" width="100%" /></a>
+<a href="https://ocean-bed.netlify.app/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wave-art.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/wave-art.svg" />
+  <img src="assets/wave-art.svg" alt="Ocean Bed — animated ocean data waves" width="100%" />
+</picture></a>
 
 **⌁ Ocean Bed** — `live`
 
@@ -131,11 +195,15 @@ marine/buoy-style data into readable, interactive insights.
 `python` `data-viz` `prediction` `netlify`
 
 [![Launch Ocean Bed](https://img.shields.io/badge/%E2%96%B6_live_demo-ocean--bed.netlify.app-22D3EE?style=flat-square&amp;labelColor=06121f)](https://ocean-bed.netlify.app/)
-[![Source](https://img.shields.io/badge/code-github/manbir-2005-8B949E?style=flat-square&amp;labelColor=0b1420)](https://github.com/manbir-2005)
+[![Source](https://img.shields.io/badge/source-manbir--2005-8B949E?style=flat-square&amp;labelColor=0b1420)](https://github.com/manbir-2005)
 
 </td><td width="50%" valign="top">
 
-<a href="https://github.com/manbir-2005/Forge-AI-Py-"><img src="assets/forge-art.svg" alt="Forge AI — animated code analysis lattice" width="100%" /></a>
+<a href="https://github.com/manbir-2005/Forge-AI-Py-"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/forge-art.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/forge-art.svg" />
+  <img src="assets/forge-art.svg" alt="Forge AI — animated code analysis lattice" width="100%" />
+</picture></a>
 
 **⌁ Forge AI** — `in development`
 
@@ -145,7 +213,7 @@ AI-assisted code review.
 
 `python` `code-analysis` `static-web-app` `ai-review`
 
-[![Repository](https://img.shields.io/badge/%E2%96%B6_repository-manbir-2005%2FForge--AI--Py---818CF8?style=flat-square&amp;labelColor=0a1020)](https://github.com/manbir-2005/Forge-AI-Py-)
+[![Repository](https://img.shields.io/badge/%E2%96%B6_repository-forge--ai--py-818CF8?style=flat-square&amp;labelColor=0a1020)](https://github.com/manbir-2005/Forge-AI-Py-)
 
 </td></tr>
 <tr>
@@ -167,7 +235,11 @@ AI-assisted code review.
 </table>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg" />
+  <img src="assets/divider.svg" alt="" width="100%" />
+</picture>
 </div>
 
 <!-- ════════════════════ role & leadership ════════════════════ -->
@@ -175,7 +247,11 @@ AI-assisted code review.
 <h2 align="center">▛ CURRENT MISSION — UPTOSKILLS</h2>
 
 <div align="center">
-<img src="assets/team-net.svg" alt="AI Product Engineer team network — senior team leader coordinating AI products, collaboration and problem solving" width="42%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/team-net.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/team-net.svg" />
+  <img src="assets/team-net.svg" alt="AI Product Engineer team network — senior team leader coordinating AI products, collaboration and problem solving" width="42%" />
+</picture>
 </div>
 
 ```text
@@ -194,7 +270,11 @@ uptoskills :: ai product engineer team
 - **Continuous learning** — treating the internship as a live lab for production-grade AI skills.
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg" />
+  <img src="assets/divider.svg" alt="" width="100%" />
+</picture>
 </div>
 
 <!-- ════════════════════ github analytics ════════════════════ -->
@@ -203,7 +283,11 @@ uptoskills :: ai product engineer team
 
 <div align="center">
 
-<img src="assets/telemetry-console.svg" alt="Telemetry console — live GitHub feed, sources verified, snake via actions" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/telemetry-console.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/telemetry-console.svg" />
+  <img src="assets/telemetry-console.svg" alt="Telemetry console — live GitHub feed, sources verified, snake via actions" width="100%" />
+</picture>
 
 <br/>
 
@@ -243,7 +327,7 @@ uptoskills :: ai product engineer team
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manbir-2005/manbir-2005/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manbir-2005/manbir-2005/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manbir-2005/manbir-2005/output/github-contribution-grid-snake-light.svg" />
   <img src="https://raw.githubusercontent.com/manbir-2005/manbir-2005/output/github-contribution-grid-snake.svg" alt="Animated contribution snake crawling across manbir-2005's contribution grid" width="100%" />
 </picture>
 
@@ -264,7 +348,11 @@ uptoskills :: ai product engineer team
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg" />
+  <img src="assets/divider.svg" alt="" width="100%" />
+</picture>
 </div>
 
 <!-- ════════════════════ currently exploring ════════════════════ -->
@@ -288,7 +376,11 @@ loading research queue ...
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg" />
+  <img src="assets/divider.svg" alt="" width="100%" />
+</picture>
 </div>
 
 <!-- ════════════════════ connect ════════════════════ -->
@@ -297,7 +389,7 @@ loading research queue ...
 
 <div align="center">
 
-<a href="https://github.com/manbir-2005" aria-label="GitHub profile of manbir-2005"><img src="https://img.shields.io/badge/GitHub-manbir-2005-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=67e8f9" alt="GitHub — manbir-2005" /></a>
+<a href="https://github.com/manbir-2005" aria-label="GitHub profile of manbir-2005"><img src="https://img.shields.io/badge/GitHub-manbir--2005-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=67e8f9" alt="GitHub — manbir-2005" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/manbir-singh-65b822359/" aria-label="LinkedIn profile of Manbir Singh"><img src="https://img.shields.io/badge/LinkedIn-manbir--singh-164e63?style=for-the-badge&amp;logo=linkedin&amp;logoColor=67e8f9" alt="LinkedIn — Manbir Singh" /></a>
 &nbsp;
@@ -312,18 +404,30 @@ loading research queue ...
 </div>
 
 <div align="center">
-<img src="assets/divider.svg" alt="" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg" />
+  <img src="assets/divider.svg" alt="" width="100%" />
+</picture>
 </div>
 
 <!-- ════════════════════ footer ════════════════════ -->
 
 <div align="center">
 
-<img src="assets/connection-bar.svg" alt="Connection status: channel open" width="62%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/connection-bar.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/connection-bar.svg" />
+  <img src="assets/connection-bar.svg" alt="Connection status: channel open" width="62%" />
+</picture>
 
 <br/><br/>
 
-<img src="assets/signature.svg" alt="Signature — engineered by Manbir Singh" width="320" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/signature.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/signature.svg" />
+  <img src="assets/signature.svg" alt="Signature — engineered by Manbir Singh" width="320" />
+</picture>
 
 <br/>
 

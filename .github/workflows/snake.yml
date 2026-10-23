@@ -29,6 +29,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%23a78bfa&color_dots=%230d1b2e,%2316406b,%230891b2,%2322d3ee,%2367e8f9
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-light.svg?color_snake=%237c3aed&color_dots=%23dfe8f2,%23b4d8f0,%237ec1ee,%2332a3e0,%230693b8
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
