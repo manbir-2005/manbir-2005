@@ -69,7 +69,7 @@
     <text x="70" y="36" font-family="'Segoe UI', Arial, sans-serif" font-weight="700" font-size="14.5" letter-spacing="1" fill="#e6edf3">APPLIED AI TOOLING</text>
     <text x="70" y="56" font-family="'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#8b949e">ai-powered python code analysis</text>
     <rect x="14" y="112" width="394" height="22" rx="6" fill="#0a1322" stroke="#14233d"/>
-    <text x="24" y="127" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="1" fill="#c4b5fd">→ github.com/ms2oo5/forge-ai</text>
+    <text x="24" y="127" font-family="ui-monospace, Consolas, monospace" font-size="10" letter-spacing="1" fill="#c4b5fd">→ github.com/manbir-2005/forge-ai</text>
     <rect x="-60" y="2" width="44" height="144" fill="url(#mSweep)">
       <animate attributeName="x" values="-60;470" dur="9s" begin="2.2s" repeatCount="indefinite"/>
     </rect>

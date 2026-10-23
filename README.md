@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     MANBIR SINGH · ms2oo5 · premium GitHub profile
+     MANBIR SINGH · manbir-2005 · premium GitHub profile
      Custom animated assets live in /assets — keep the folder next to this file.
      ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://github.com/ms2oo5">
+<a href="https://github.com/manbir-2005">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1100&amp;duration=2600&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=40&amp;repeat=true&amp;lines=AI%2FML+Developer;Generative+AI+Explorer;AI+Product+Engineer;Senior+Team+Leader+%40+UpToSkills;Final-Year+B.Tech+CSE;Building+Intelligent+AI+Products" alt="Rotating roles: AI/ML Developer, Generative AI Explorer, AI Product Engineer, Senior Team Leader at UpToSkills, Final-Year B.Tech CSE, Building Intelligent AI Products" />
 </a>
 
@@ -22,7 +22,7 @@
 <!-- ════════════════════ system boot · profile intro ════════════════════ -->
 
 ```text
-┌─╮  boot :: ms2oo5.core
+┌─╮  boot :: manbir-2005.core
 │
 │  name        manbir singh
 │  role        ai/ml developer · generative ai explorer · ai product engineer
@@ -94,7 +94,7 @@
 <img src="assets/rack-tools.svg" alt="Rack 05 — Tools and Web" width="330" />
 
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="52" /></a>
-<a href="https://github.com/ms2oo5"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="52" /></a>
+<a href="https://github.com/manbir-2005"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="52" /></a>
 <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" alt="Docker — exploring" width="52" /></a>
 <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="52" /></a>
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="52" /></a>
@@ -131,11 +131,11 @@ marine/buoy-style data into readable, interactive insights.
 `python` `data-viz` `prediction` `netlify`
 
 [![Launch Ocean Bed](https://img.shields.io/badge/%E2%96%B6_live_demo-ocean--bed.netlify.app-22D3EE?style=flat-square&amp;labelColor=06121f)](https://ocean-bed.netlify.app/)
-[![Source](https://img.shields.io/badge/code-github/ms2oo5-8B949E?style=flat-square&amp;labelColor=0b1420)](https://github.com/ms2oo5)
+[![Source](https://img.shields.io/badge/code-github/manbir-2005-8B949E?style=flat-square&amp;labelColor=0b1420)](https://github.com/manbir-2005)
 
 </td><td width="50%" valign="top">
 
-<a href="https://github.com/ms2oo5/Forge-AI-Py-"><img src="assets/forge-art.svg" alt="Forge AI — animated code analysis lattice" width="100%" /></a>
+<a href="https://github.com/manbir-2005/Forge-AI-Py-"><img src="assets/forge-art.svg" alt="Forge AI — animated code analysis lattice" width="100%" /></a>
 
 **⌁ Forge AI** — `in development`
 
@@ -145,7 +145,7 @@ AI-assisted code review.
 
 `python` `code-analysis` `static-web-app` `ai-review`
 
-[![Repository](https://img.shields.io/badge/%E2%96%B6_repository-ms2oo5%2FForge--AI--Py---818CF8?style=flat-square&amp;labelColor=0a1020)](https://github.com/ms2oo5/Forge-AI-Py-)
+[![Repository](https://img.shields.io/badge/%E2%96%B6_repository-manbir-2005%2FForge--AI--Py---818CF8?style=flat-square&amp;labelColor=0a1020)](https://github.com/manbir-2005/Forge-AI-Py-)
 
 </td></tr>
 <tr>
@@ -211,18 +211,18 @@ uptoskills :: ai product engineer team
 <tr>
 <td width="52%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ms2oo5&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;icon_color=38bdf8&amp;text_color=e6edf3" alt="GitHub statistics for ms2oo5 — stars, commits, PRs, issues and contributions" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=manbir-2005&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;icon_color=38bdf8&amp;text_color=e6edf3" alt="GitHub statistics for manbir-2005 — stars, commits, PRs, issues and contributions" width="100%" />
 
 </td>
 <td width="46%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms2oo5&amp;layout=compact&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;text_color=e6edf3&amp;langs_count=8" alt="Most used languages of ms2oo5 on GitHub" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manbir-2005&amp;layout=compact&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;text_color=e6edf3&amp;langs_count=8" alt="Most used languages of manbir-2005 on GitHub" width="100%" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=ms2oo5&amp;locale=en&amp;hide_border=true&amp;background=05070D&amp;stroke=1E2A45&amp;ring=22D3EE&amp;fire=8B5CF6&amp;currStreakNum=E6EDF3&amp;sideNums=67E8F9&amp;sideLabels=8B949E&amp;dates=64748B&amp;currStreakLabel=67E8F9" alt="GitHub contribution streak for ms2oo5" width="66%" />
+<img src="https://streak-stats.demolab.com?user=manbir-2005&amp;locale=en&amp;hide_border=true&amp;background=05070D&amp;stroke=1E2A45&amp;ring=22D3EE&amp;fire=8B5CF6&amp;currStreakNum=E6EDF3&amp;sideNums=67E8F9&amp;sideLabels=8B949E&amp;dates=64748B&amp;currStreakLabel=67E8F9" alt="GitHub contribution streak for manbir-2005" width="66%" />
 
 <!-- Contribution snake — generated daily by .github/workflows/snake.yml into the `output` branch.
      Fallback if the action hasn't run yet: this block simply shows nothing until the first run completes. -->
@@ -230,19 +230,19 @@ uptoskills :: ai product engineer team
 <sub>▾ contribution snake — real contribution grid · refreshes automatically</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ms2oo5/ms2oo5/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ms2oo5/ms2oo5/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ms2oo5/ms2oo5/output/github-contribution-grid-snake.svg" alt="Animated contribution snake crawling across ms2oo5's contribution grid" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manbir-2005/manbir-2005/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manbir-2005/manbir-2005/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/manbir-2005/manbir-2005/output/github-contribution-grid-snake.svg" alt="Animated contribution snake crawling across manbir-2005's contribution grid" width="100%" />
 </picture>
 
 <!-- ACTIVITY GRAPH — github-readme-activity-graph.vercel.app returned "Payment Required / DEPLOYMENT_DISABLED"
      on 2026-10-24, so it is intentionally NOT embedded. When the service is online again (or after a self-deploy),
      re-enable with:
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ms2oo5&amp;bg_color=05070d&amp;color=e6edf3&amp;line=22d3ee&amp;point=a78bfa&amp;area=true&amp;area_color=164e63&amp;hide_border=true" alt="Contribution activity graph for ms2oo5" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manbir-2005&amp;bg_color=05070d&amp;color=e6edf3&amp;line=22d3ee&amp;point=a78bfa&amp;area=true&amp;area_color=164e63&amp;hide_border=true" alt="Contribution activity graph for manbir-2005" width="100%" />
 -->
 
 <!-- VIEWER COUNTER — optional, external service (komarev). Remove freely.
-<img src="https://komarev.com/ghpvc/?username=ms2oo5&amp;label=TELEMETRY%20%2F%20PROFILE+VIEWS&amp;color=0e7490&amp;style=flat-square" alt="Profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=manbir-2005&amp;label=TELEMETRY%20%2F%20PROFILE+VIEWS&amp;color=0e7490&amp;style=flat-square" alt="Profile view counter" />
 -->
 
 <br/>
@@ -285,7 +285,7 @@ loading research queue ...
 
 <div align="center">
 
-<a href="https://github.com/ms2oo5" aria-label="GitHub profile of ms2oo5"><img src="https://img.shields.io/badge/GitHub-ms2oo5-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=67e8f9" alt="GitHub — ms2oo5" /></a>
+<a href="https://github.com/manbir-2005" aria-label="GitHub profile of manbir-2005"><img src="https://img.shields.io/badge/GitHub-manbir-2005-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=67e8f9" alt="GitHub — manbir-2005" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/manbir-singh-65b822359/" aria-label="LinkedIn profile of Manbir Singh"><img src="https://img.shields.io/badge/LinkedIn-manbir--singh-164e63?style=for-the-badge&amp;logo=linkedin&amp;logoColor=67e8f9" alt="LinkedIn — Manbir Singh" /></a>
 &nbsp;

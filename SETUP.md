@@ -1,4 +1,4 @@
-# ms2oo5 — Premium GitHub Profile · Setup & Maintenance
+# manbir-2005 — Premium GitHub Profile · Setup & Maintenance
 
 A complete asset kit for a custom, animated GitHub profile:
 
@@ -11,13 +11,13 @@ A complete asset kit for a custom, animated GitHub profile:
 ## 1. Installation (one-time, ~5 minutes)
 
 1. **Create the profile repo** (skip if it already exists):
-   - Repo name **must** be exactly `ms2oo5` → [github.com/new](https://github.com/new)
+   - Repo name **must** be exactly `manbir-2005` → [github.com/new](https://github.com/new)
    - Public, with a `README.md` initialized.
 
 2. **Copy the files into the repo root** so the structure looks like:
 
    ```text
-   ms2oo5/
+   manbir-2005/
    ├── README.md
    ├── assets/
    │   ├── hero-banner.svg
@@ -31,7 +31,7 @@ A complete asset kit for a custom, animated GitHub profile:
            └── snake.yml
    ```
 
-   (If working locally: create a git repo in this folder, add a remote `git remote add origin https://github.com/ms2oo5/ms2oo5.git`, then `git push -f origin main`.)
+   (If working locally: create a git repo in this folder, add a remote `git remote add origin https://github.com/manbir-2005/manbir-2005.git`, then `git push -f origin main`.)
 
 3. **Activate the snake** (needs one manual run for the first render):
    - Repo → **Actions** tab → *Contribution Snake* → **Run workflow** → Run.
@@ -59,7 +59,7 @@ A complete asset kit for a custom, animated GitHub profile:
 | View counter (optional) | `komarev.com/ghpvc` | uncomment in README | commented out by default |
 
 External stat widgets are standard, widely mirrored, self-serve services.
-They report **real GitHub data** for `ms2oo5` — nothing is fabricated. The custom
+They report **real GitHub data** for `manbir-2005` — nothing is fabricated. The custom
 SVGs are decoration and never claim to be live data.
 
 ## 3. Honesty policy baked into the design
@@ -81,7 +81,7 @@ SVGs are decoration and never claim to be live data.
 ## 5. Files created
 
 ```text
-ms2oo5-profile/
+manbir-2005-profile/
 ├── README.md                        ← replace the repo's README.md
 ├── SETUP.md                         ← this guide
 ├── assets/

@@ -174,7 +174,7 @@
     <path d="M1182 34 V18 H1166"/>
     <path d="M18 386 V402 H34"/>
   </g>
-  <text x="42" y="40" font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="12" fill="#67e8f9" opacity="0.85" letter-spacing="1">● SYSTEM ONLINE :: ms2oo5.core</text>
+  <text x="42" y="40" font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="12" fill="#67e8f9" opacity="0.85" letter-spacing="1">● SYSTEM ONLINE :: manbir-2005.core</text>
   <text x="1158" y="40" text-anchor="end" font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="12" fill="#64748b" letter-spacing="1">// neural engine v2 — stable</text>
 
   <!-- ══════════════ identity ══════════════ -->

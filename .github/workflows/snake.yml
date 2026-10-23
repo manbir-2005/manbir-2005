@@ -2,7 +2,7 @@ name: Contribution Snake
 
 # Generates the animated contribution-snake SVGs and publishes them to the
 # `output` branch. The README references:
-#   https://raw.githubusercontent.com/ms2oo5/ms2oo5/output/github-contribution-grid-snake[-dark].svg
+#   https://raw.githubusercontent.com/manbir-2005/manbir-2005/output/github-contribution-grid-snake[-dark].svg
 # First run must be triggered manually (Actions → Contribution Snake → Run workflow)
 # or happen automatically after the next push / scheduled tick.
 
