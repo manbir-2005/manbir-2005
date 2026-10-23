@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="hb-title hb-desc">
+  <title id="hb-title">Manbir Singh — AI/ML Developer</title>
+  <desc id="hb-desc">Animated neural network hero banner for the GitHub profile of Manbir Singh.</desc>
+
+  <!-- ══════════════ defs ══════════════ -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#05070d"/>
+      <stop offset="0.55" stop-color="#0a1020"/>
+      <stop offset="1" stop-color="#070b16"/>
+    </linearGradient>
+
+    <radialGradient id="glowTop" cx="0.5" cy="0.08" r="0.75">
+      <stop offset="0" stop-color="#312e81" stop-opacity="0.35"/>
+      <stop offset="0.5" stop-color="#0e7490" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#05070d" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="nameGrad" gradientUnits="userSpaceOnUse" x1="180" y1="195" x2="1020" y2="195">
+      <stop offset="0"    stop-color="#67e8f9"/>
+      <stop offset="0.45" stop-color="#38bdf8"/>
+      <stop offset="0.75" stop-color="#818cf8"/>
+      <stop offset="1"    stop-color="#a78bfa"/>
+      <animate attributeName="x1" values="180;780;180" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1020;1620;1020" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="subLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#67e8f9" stop-opacity="0.9"/>
+      <stop offset="1"   stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="pulseGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#0f1b30" stroke-width="1"/>
+    </pattern>
+
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="typeClip" clipPathUnits="userSpaceOnUse">
+      <rect x="422" y="306" width="0" height="30">
+        <animate attributeName="width" calcMode="discrete" dur="5.2s" repeatCount="indefinite"
+          values="18;36;54;72;90;108;126;144;162;180;198;216;234;252;270;288;306;324;342;356"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- ══════════════ background ══════════════ -->
+  <rect width="1200" height="420" fill="url(#bgGrad)"/>
+  <rect width="1200" height="420" fill="url(#grid)" opacity="0.55"/>
+  <rect width="1200" height="420" fill="url(#glowTop)"/>
+
+  <!-- circuit traces -->
+  <g fill="none" stroke="#132643" stroke-width="1.5">
+    <path d="M0 64 H150 V110 H240"/>
+    <path d="M1200 64 H1050 V110 H960"/>
+    <path d="M0 356 H130 V320 H210"/>
+    <path d="M1200 356 H1070 V320 H990"/>
+    <path d="M150 64 V38 H260"/>
+    <path d="M1050 64 V38 H940"/>
+  </g>
+  <g fill="#1d3a5f">
+    <circle cx="240" cy="110" r="3"/><circle cx="150" cy="64" r="3"/>
+    <circle cx="960" cy="110" r="3"/><circle cx="1050" cy="64" r="3"/>
+    <circle cx="210" cy="320" r="3"/><circle cx="990" cy="320" r="3"/>
+  </g>
+
+  <!-- ══════════════ neural lattice — left ══════════════ -->
+  <g stroke="#1e3a5f" stroke-width="1" fill="none">
+    <path d="M92 122 L152 82 L212 152 L122 222 L182 282 L94 322 L242 242 Z"/>
+    <path d="M152 82 L122 222 M212 152 L182 282 M242 242 L122 222 M94 322 L122 222"/>
+  </g>
+  <!-- neural lattice — right (mirrored) -->
+  <g stroke="#1e3a5f" stroke-width="1" fill="none">
+    <path d="M1108 122 L1048 82 L988 152 L1078 222 L1018 282 L1106 322 L958 242 Z"/>
+    <path d="M1048 82 L1078 222 M988 152 L1018 282 M958 242 L1078 222 M1106 322 L1078 222"/>
+  </g>
+
+  <!-- cross-cluster data streams (flow behind the title) -->
+  <g fill="none" stroke="#164e63" stroke-width="1.2" stroke-dasharray="3 11" opacity="0.45">
+    <path d="M242 152 C 420 120, 780 120, 958 152">
+      <animate attributeName="stroke-dashoffset" values="0;-84" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M242 242 C 430 274, 770 274, 958 242">
+      <animate attributeName="stroke-dashoffset" values="0;-84" dur="4.1s" repeatCount="indefinite"/>
+    </path>
+    <path d="M212 152 C 460 190, 740 190, 988 152" opacity="0.7">
+      <animate attributeName="stroke-dashoffset" values="0;-84" dur="5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- ══════════════ travelling synapse pulses ══════════════ -->
+  <g filter="url(#softGlow)">
+    <circle r="3" fill="url(#pulseGrad)">
+      <animateMotion dur="3s" repeatCount="indefinite" path="M92 122 L152 82 L212 152"/>
+    </circle>
+    <circle r="2.5" fill="#67e8f9">
+      <animateMotion dur="3.8s" repeatCount="indefinite" path="M212 152 L122 222 L182 282"/>
+    </circle>
+    <circle r="3" fill="url(#pulseGrad)">
+      <animateMotion dur="4.4s" repeatCount="indefinite" path="M988 152 L1048 82 L1108 122 L1106 322"/>
+    </circle>
+    <circle r="2.5" fill="#a78bfa">
+      <animateMotion dur="3.6s" repeatCount="indefinite" path="M1078 222 L958 242 L1018 282"/>
+    </circle>
+    <circle r="2.5" fill="#38bdf8">
+      <animateMotion dur="5.2s" repeatCount="indefinite" path="M242 152 C 420 120, 780 120, 958 152"/>
+    </circle>
+    <circle r="2.5" fill="#67e8f9">
+      <animateMotion dur="6s" begin="1.8s" repeatCount="indefinite" path="M242 242 C 430 274, 770 274, 958 242"/>
+    </circle>
+  </g>
+
+  <!-- nodes -->
+  <g fill="#0b1526" stroke="#67e8f9" stroke-width="1.6">
+    <circle cx="92" cy="122" r="5"/><circle cx="152" cy="82" r="4"/>
+    <circle cx="212" cy="152" r="5"/><circle cx="122" cy="222" r="4"/>
+    <circle cx="182" cy="282" r="5"/><circle cx="94" cy="322" r="4"/>
+    <circle cx="242" cy="242" r="5"/>
+    <circle cx="1108" cy="122" r="5"/><circle cx="1048" cy="82" r="4"/>
+    <circle cx="988" cy="152" r="5"/><circle cx="1078" cy="222" r="4"/>
+    <circle cx="1018" cy="282" r="5"/><circle cx="1106" cy="322" r="4"/>
+    <circle cx="958" cy="242" r="5"/>
+  </g>
+
+  <!-- ambient particles -->
+  <g opacity="0.8">
+    <circle cx="320" cy="90" r="2" fill="#a5f3fc">
+      <animate attributeName="opacity" values="0;1;0" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="330" r="1.6" fill="#c4b5fd">
+      <animate attributeName="opacity" values="0;1;0" dur="4.2s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="70" r="1.6" fill="#a5f3fc">
+      <animate attributeName="opacity" values="0;1;0" dur="3.9s" begin="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="890" cy="340" r="2" fill="#c4b5fd">
+      <animate attributeName="opacity" values="0;1;0" dur="4.6s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="60" r="1.5" fill="#7dd3fc">
+      <animate attributeName="opacity" values="0;0.9;0" dur="5s" begin="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="480" cy="370" r="1.5" fill="#67e8f9">
+      <animate attributeName="opacity" values="0;0.9;0" dur="4.8s" begin="3.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ══════════════ corner brackets + telemetry ══════════════ -->
+  <g stroke="#22d3ee" stroke-width="1.6" fill="none" opacity="0.85">
+    <path d="M18 34 V18 H34"/>
+    <path d="M1182 386 V402 H1166"/>
+    <path d="M1182 34 V18 H1166"/>
+    <path d="M18 386 V402 H34"/>
+  </g>
+  <text x="42" y="40" font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="12" fill="#67e8f9" opacity="0.85" letter-spacing="1">● SYSTEM ONLINE :: ms2oo5.core</text>
+  <text x="1158" y="40" text-anchor="end" font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="12" fill="#64748b" letter-spacing="1">// neural engine v2 — stable</text>
+
+  <!-- ══════════════ identity ══════════════ -->
+  <text x="600" y="196" text-anchor="middle"
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700"
+    font-size="68" letter-spacing="10" fill="url(#nameGrad)" filter="url(#softGlow)">MANBIR SINGH</text>
+
+  <text x="600" y="248" text-anchor="middle"
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="600"
+    font-size="17" letter-spacing="4.5" fill="#9fb9dd">AI/ML DEVELOPER  •  GENAI EXPLORER  •  AI PRODUCT ENGINEER</text>
+
+  <rect x="360" y="272" width="480" height="2" fill="url(#subLine)"/>
+
+  <!-- ══════════════ typing line ══════════════ -->
+  <g clip-path="url(#typeClip)">
+    <text x="422" y="326" font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="15" fill="#67e8f9">&gt; booting neural core... status: 200 ok</text>
+  </g>
+  <rect x="430" y="312" width="9" height="16" fill="#a78bfa">
+    <animate attributeName="x" calcMode="discrete" dur="5.2s" repeatCount="indefinite"
+      values="449;467;485;503;521;539;557;575;593;611;629;647;665;683;701;719;737;755;773;787"/>
+    <animate attributeName="opacity" calcMode="discrete" values="1;0;1;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- footer tag -->
+  <text x="600" y="392" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', Consolas, monospace" font-size="11" fill="#475569" letter-spacing="3">IKG PTU · HOSHIARPUR  —  INTERN @ UPTOSKILLS</text>
+</svg>

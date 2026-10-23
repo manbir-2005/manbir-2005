@@ -1,31 +1,293 @@
-<h1 align="center">Hi 👋, I'm Manbir Singh</h1>
-<h3 align="center">A passionate AI/ML and frontend developer from India</h3>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     MANBIR SINGH · ms2oo5 · premium GitHub profile
+     Custom animated assets live in /assets — keep the folder next to this file.
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ms2oo5&label=Profile%20views&color=0e75b6&style=flat" alt="ms2oo5" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ms2oo5" alt="ms2oo5" /></a> </p>
+<img src="assets/hero-banner.svg" alt="Manbir Singh — AI/ML Developer · GenAI Explorer · AI Product Engineer — animated neural network banner" width="100%" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on [Forge AI](https://github.com/ms2OO5/Forge-AI-Py-)
+<a href="https://github.com/ms2oo5">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1100&amp;duration=2600&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=40&amp;repeat=true&amp;lines=AI%2FML+Developer;Generative+AI+Explorer;AI+Product+Engineer;Senior+Team+Leader+%40+UpToSkills;Final-Year+B.Tech+CSE;Building+Intelligent+AI+Products" alt="Rotating roles: AI/ML Developer, Generative AI Explorer, AI Product Engineer, Senior Team Leader at UpToSkills, Final-Year B.Tech CSE, Building Intelligent AI Products" />
+</a>
 
-- 🌱 I’m currently learning **Transformers , Neural networks**
+<img src="assets/divider.svg" alt="" width="100%" />
 
-- 💬 Ask me about **Python , Data science , Machine learning and Deep learning**
+</div>
 
-- 📫 How to reach me **singhmanbir101@gmail.com**
+<!-- ════════════════════ system boot · profile intro ════════════════════ -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/manbirr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manbirr" height="30" width="40" /></a>
-<a href="https://instagram.com/_manna_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_manna_07" height="30" width="40" /></a>
-</p>
+```text
+┌─╮  boot :: ms2oo5.core
+│
+│  name        manbir singh
+│  role        ai/ml developer · generative ai explorer · ai product engineer
+│  mission     turning models into useful, real-world ai products
+│  team        senior team leader — ai product engineer team @ uptoskills
+│  education   final-year b.tech cse · ikg ptu, hoshiarpur campus
+│  stack       python · ml · deep learning · llms · rag
+│  status      ● interning @ uptoskills — learning in production
+│
+└─╯  run `manbir --connect` in the footer to open a channel
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+<br/>
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms2oo5&show_icons=true&locale=en&layout=compact" alt="ms2oo5" /></p>
+<!-- ════════════════════ what i build ════════════════════ -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms2oo5&show_icons=true&locale=en" alt="ms2oo5" /></p>
+## ▛ WHAT I BUILD
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ms2oo5&" alt="ms2oo5" /></p>
+| module | in practice |
+|---|---|
+| **predictive data products** | ocean data visualisation & prediction → `ocean-bed` |
+| **applied ai tooling** | ai-powered python code analysis → `forge-ai` |
+| **genai systems** | llm pipelines · prompt design · retrieval patterns — *learning in public* |
+| **team execution** | leading & coordinating an ai product engineer team @ uptoskills |
+
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<!-- ════════════════════ tech stack ════════════════════ -->
+
+## ▛ TECH STACK
+
+<div align="center">
+
+**languages**
+
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="52" /></a>
+<a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="52" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="52" /></a>
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL / MySQL" width="52" /></a>
+
+<br/>
+
+**data science**
+
+<a href="https://numpy.org"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="52" /></a>
+<a href="https://pandas.pydata.org"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="52" /></a>
+<img src="https://img.shields.io/badge/data_viz-visualization-0E7490?style=flat-square&amp;labelColor=0b1420" alt="Data visualization" />
+<img src="https://img.shields.io/badge/model_eval-metrics_%26_validation-0E7490?style=flat-square&amp;labelColor=0b1420" alt="Model evaluation" />
+
+<br/>
+
+**ai · ml — deep in study**
+
+<a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="52" /></a>
+<a href="https://keras.io"><img src="https://skillicons.dev/icons?i=keras" alt="Keras" width="52" /></a>
+<a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="52" /></a>
+<a href="https://opencv.org"><img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="52" /></a>
+
+<br/>
+
+**generative ai — active exploration**
+
+<img src="https://img.shields.io/badge/LLMs-exploring-8B5CF6?style=flat-square&amp;labelColor=16112b" alt="LLMs — exploring" />
+<img src="https://img.shields.io/badge/Transformers-exploring-8B5CF6?style=flat-square&amp;labelColor=16112b" alt="Transformers — exploring" />
+<img src="https://img.shields.io/badge/Prompt_Eng-exploring-8B5CF6?style=flat-square&amp;labelColor=16112b" alt="Prompt engineering — exploring" />
+<img src="https://img.shields.io/badge/LangChain-exploring-8B5CF6?style=flat-square&amp;labelColor=16112b" alt="LangChain — exploring" />
+<img src="https://img.shields.io/badge/RAG-exploring-8B5CF6?style=flat-square&amp;labelColor=16112b" alt="Retrieval-Augmented Generation — exploring" />
+
+<br/>
+
+**tools · web**
+
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="52" /></a>
+<a href="https://github.com/ms2oo5"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="52" /></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" alt="Docker — exploring" width="52" /></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="52" /></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="52" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="52" /></a>
+
+<br/>
+
+`▮ solid icons — working knowledge | ▮ violet tags & study rows — active learning zone (not claimed mastery)`
+
+</div>
+
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<!-- ════════════════════ projects ════════════════════ -->
+
+## ▛ PROJECT LOG
+
+<table>
+<tr><td width="50%" valign="top">
+
+<a href="https://ocean-bed.netlify.app/"><img src="assets/wave-art.svg" alt="Ocean Bed — animated ocean data waves" width="100%" /></a>
+
+**⌁ Ocean Bed** — `live`
+
+Ocean-focused **data visualization & prediction** interface. Built to turn
+marine/buoy-style data into readable, interactive insights.
+
+`python` `data-viz` `prediction` `netlify`
+
+[![Launch Ocean Bed](https://img.shields.io/badge/%E2%96%B6_live_demo-ocean--bed.netlify.app-22D3EE?style=flat-square&amp;labelColor=06121f)](https://ocean-bed.netlify.app/)
+[![Source](https://img.shields.io/badge/code-github/ms2oo5-8B949E?style=flat-square&amp;labelColor=0b1420)](https://github.com/ms2oo5)
+
+</td><td width="50%" valign="top">
+
+<a href="https://github.com/ms2oo5/Forge-AI-Py-"><img src="assets/forge-art.svg" alt="Forge AI — animated code analysis lattice" width="100%" /></a>
+
+**⌁ Forge AI** — `in development`
+
+AI-powered **python code analysis platform** for intelligent bug detection,
+security scanning, code quality assessment, performance optimization, and
+AI-assisted code review.
+
+`python` `code-analysis` `static-web-app` `ai-review`
+
+[![Repository](https://img.shields.io/badge/%E2%96%B6_repository-ms2oo5%2FForge--AI--Py---818CF8?style=flat-square&amp;labelColor=0a1020)](https://github.com/ms2oo5/Forge-AI-Py-)
+
+</td></tr>
+<tr>
+<td valign="top">
+
+`▮ reserved slot — next genai project`
+
+*in development · real link & description will appear here when ready*
+
+</td>
+<td valign="top">
+
+`▮ reserved slot — next ml/deep learning project`
+
+*in development · real link & description will appear here when ready*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<!-- ════════════════════ role & leadership ════════════════════ -->
+
+## ▛ CURRENT MISSION — UPTOSKILLS
+
+<div align="center">
+<img src="assets/team-net.svg" alt="AI Product Engineer team network — senior team leader coordinating AI products, collaboration and problem solving" width="42%" />
+</div>
+
+```text
+uptoskills :: ai product engineer team
+════════════════════════════════════════════
+
+  ◆ role        senior team leader — ai product engineer team
+  ◆ focus       ai product development & technical problem-solving
+  ◆ day-to-day  coordinating the team · collaboration · shipping
+  ◆ outlook     continuous learning — from prototype to product
+```
+
+- **Team coordination** — structuring work across the AI Product Engineer team and keeping builds moving together.
+- **AI product development** — contributing to practical AI products rather than notebook-only experiments.
+- **Technical problem-solving** — breaking ambiguous problems into buildable steps.
+- **Continuous learning** — treating the internship as a live lab for production-grade AI skills.
+
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<!-- ════════════════════ github analytics ════════════════════ -->
+
+## ▛ TELEMETRY — GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ms2oo5&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;icon_color=38bdf8&amp;text_color=e6edf3" alt="GitHub statistics for ms2oo5 — stars, commits, PRs, issues and contributions" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms2oo5&amp;layout=compact&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;text_color=e6edf3&amp;langs_count=8" alt="Most used languages of ms2oo5 on GitHub" width="38%" />
+
+<img src="https://streak-stats.demolab.com?user=ms2oo5&amp;locale=en&amp;hide_border=true&amp;background=05070D&amp;stroke=1E2A45&amp;ring=22D3EE&amp;fire=8B5CF6&amp;currStreakNum=E6EDF3&amp;sideNums=67E8F9&amp;sideLabels=8B949E&amp;dates=64748B&amp;currStreakLabel=67E8F9" alt="GitHub contribution streak for ms2oo5" width="70%" />
+
+<!-- Contribution snake — generated daily by .github/workflows/snake.yml into the `output` branch.
+     Fallback if the action hasn't run yet: this block simply shows nothing until the first run completes. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ms2oo5/ms2oo5/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ms2oo5/ms2oo5/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ms2oo5/ms2oo5/output/github-contribution-grid-snake.svg" alt="Animated contribution snake crawling across ms2oo5's contribution grid" width="100%" />
+</picture>
+
+<!-- ACTIVITY GRAPH — github-readme-activity-graph.vercel.app returned "Payment Required / DEPLOYMENT_DISABLED"
+     on 2026-10-24, so it is intentionally NOT embedded. When the service is online again (or after a self-deploy),
+     re-enable with:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ms2oo5&amp;bg_color=05070d&amp;color=e6edf3&amp;line=22d3ee&amp;point=a78bfa&amp;area=true&amp;area_color=164e63&amp;hide_border=true" alt="Contribution activity graph for ms2oo5" width="100%" />
+-->
+
+<!-- VIEWER COUNTER — optional, external service (komarev). Remove freely.
+<img src="https://komarev.com/ghpvc/?username=ms2oo5&amp;label=TELEMETRY%20%2F%20PROFILE+VIEWS&amp;color=0e7490&amp;style=flat-square" alt="Profile view counter" />
+-->
+
+</div>
+
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<!-- ════════════════════ currently exploring ════════════════════ -->
+
+## ▛ CURRENTLY EXPLORING
+
+<div align="center">
+
+```
+loading research queue ...
+```
+
+| ▸ signal | ▸ focus |
+|---|---|
+| `neural_networks` | building from scratch — backprop, attention, embeddings |
+| `transformers` | internals of the architecture powering modern GenAI |
+| `rag_patterns` | retrieval pipelines, chunking, evaluation-first design |
+| `agents` | tool-using llm workflows and orchestration |
+| `deployment` | packaging models into usable products |
+
+</div>
+
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<!-- ════════════════════ connect ════════════════════ -->
+
+## ▛ OPEN A CHANNEL
+
+<div align="center">
+
+<a href="https://github.com/ms2oo5" aria-label="GitHub profile of ms2oo5"><img src="https://img.shields.io/badge/GitHub-ms2oo5-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=67e8f9" alt="GitHub — ms2oo5" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/manbir-singh-65b822359/" aria-label="LinkedIn profile of Manbir Singh"><img src="https://img.shields.io/badge/LinkedIn-manbir--singh-164e63?style=for-the-badge&amp;logo=linkedin&amp;logoColor=67e8f9" alt="LinkedIn — Manbir Singh" /></a>
+&nbsp;
+<a href="https://www.instagram.com/_manna_07/" aria-label="Instagram profile _manna_07"><img src="https://img.shields.io/badge/Instagram-%40_manna__07-312e81?style=for-the-badge&amp;logo=instagram&amp;logoColor=c4b5fd" alt="Instagram — _manna_07" /></a>
+&nbsp;
+<a href="https://www.kaggle.com/manbirr" aria-label="Kaggle profile of Manbir Singh"><img src="https://img.shields.io/badge/Kaggle-manbirr-1e3a5f?style=for-the-badge&amp;logoColor=67e8f9" alt="Kaggle — manbirr" /></a>
+
+<br/><br/>
+
+*`manbir --connect` → response: signal received. open to ai/ml conversations, collaborations and internships.* ✦
+
+</div>
+
+<div align="center">
+<img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<!-- ════════════════════ footer ════════════════════ -->
+
+<div align="center">
+<img src="assets/signature.svg" alt="Signature — engineered by Manbir Singh" width="320" />
+
+<br/>
+
+<sub>▚ compiled manually · no template involved ▚</sub>
+
+</div>

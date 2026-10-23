@@ -1,0 +1,39 @@
+name: Contribution Snake
+
+# Generates the animated contribution-snake SVGs and publishes them to the
+# `output` branch. The README references:
+#   https://raw.githubusercontent.com/ms2oo5/ms2oo5/output/github-contribution-grid-snake[-dark].svg
+# First run must be triggered manually (Actions → Contribution Snake → Run workflow)
+# or happen automatically after the next push / scheduled tick.
+
+on:
+  schedule:
+    - cron: "30 18 * * *" # daily at 00:00 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23a78bfa&color_dots=%230d1b2e,%2316406b,%230891b2,%2322d3ee,%2367e8f9
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

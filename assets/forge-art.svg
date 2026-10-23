@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 170" width="480" height="170" role="img" aria-label="Forge AI — animated code-analysis lattice">
+  <defs>
+    <linearGradient id="faBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a1020"/>
+      <stop offset="1" stop-color="#070b16"/>
+    </linearGradient>
+    <linearGradient id="scanG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#67e8f9" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#67e8f9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="480" height="170" rx="12" fill="url(#faBg)" stroke="#312e81" stroke-width="1"/>
+
+  <text x="18" y="26" font-family="ui-monospace, Consolas, monospace" font-size="10" fill="#a78bfa" letter-spacing="2" opacity="0.85">FORGE-AI // CODE ANALYSIS</text>
+
+  <!-- lattice edges -->
+  <g stroke="#1e3a5f" stroke-width="1" fill="none">
+    <path d="M90 60 L160 50 L230 64 L300 52 L370 62 L90 60"/>
+    <path d="M90 104 L160 92 L230 108 L300 94 L370 104 L90 104"/>
+    <path d="M90 140 L160 132 L230 146 L300 134 L370 142 L90 140"/>
+    <path d="M160 50 L160 92 M230 64 L230 108 M300 52 L300 94 M370 62 L370 104"/>
+    <path d="M160 92 L160 132 M230 108 L230 146 M300 94 L300 134 M370 104 L370 142"/>
+    <path d="M90 60 L160 92 M230 64 L160 92 M300 52 L230 108 M370 62 L300 94"/>
+  </g>
+
+  <!-- lattice nodes -->
+  <g fill="#0b1526" stroke="#818cf8" stroke-width="1.4">
+    <circle cx="90" cy="60" r="3.5"/><circle cx="160" cy="50" r="3"/>
+    <circle cx="230" cy="64" r="3.5"/><circle cx="300" cy="52" r="3"/>
+    <circle cx="370" cy="62" r="3.5"/>
+    <circle cx="90" cy="104" r="3"/><circle cx="160" cy="92" r="3.5"/>
+    <circle cx="230" cy="108" r="3"/><circle cx="300" cy="94" r="3.5"/>
+    <circle cx="370" cy="104" r="3"/>
+    <circle cx="90" cy="140" r="3.5"/><circle cx="160" cy="132" r="3"/>
+    <circle cx="230" cy="146" r="3.5"/><circle cx="300" cy="134" r="3"/>
+    <circle cx="370" cy="142" r="3.5"/>
+  </g>
+
+  <!-- analyser pulses -->
+  <circle r="2.5" fill="#67e8f9" opacity="0.9">
+    <animateMotion dur="3.2s" repeatCount="indefinite" path="M90 60 L160 92 L230 64 L300 94 L370 104 L300 134 L230 146"/>
+  </circle>
+  <circle r="2" fill="#a78bfa" opacity="0.9">
+    <animateMotion dur="4s" begin="1s" repeatCount="indefinite" path="M370 62 L300 52 L230 108 L160 132 L90 140"/>
+  </circle>
+
+  <!-- scan sweep -->
+  <rect x="0" y="0" width="480" height="14" fill="url(#scanG)">
+    <animate attributeName="y" values="10;150;10" dur="5.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
