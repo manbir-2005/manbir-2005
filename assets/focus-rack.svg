@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 58" width="860" height="58" role="img" aria-label="Focus areas in active study: data visualization, model evaluation, LLMs, transformers, prompting, LangChain, RAG">
+  <text x="118" y="12" font-family="ui-monospace, Consolas, monospace" font-size="9.5" letter-spacing="1.5" fill="#57606a">// focus areas — active exploration zone · not claimed mastery</text>
+
+  <g font-family="ui-monospace, Consolas, monospace" font-size="9.5" letter-spacing="1.5" fill="#c4b5fd">
+    <g fill="#16112b" stroke="#3b2f63">
+      <rect x="118" y="22" width="82" height="28" rx="14" stroke-dasharray="3 3"><animate attributeName="stroke-dashoffset" values="0;-6" dur="1.3s" repeatCount="indefinite"/></rect>
+      <rect x="210" y="22" width="96" height="28" rx="14" stroke-dasharray="3 3"><animate attributeName="stroke-dashoffset" values="0;-6" dur="1.3s" repeatCount="indefinite"/></rect>
+      <rect x="316" y="22" width="53" height="28" rx="14" stroke-dasharray="3 3"><animate attributeName="stroke-dashoffset" values="0;-6" dur="1.3s" repeatCount="indefinite"/></rect>
+      <rect x="379" y="22" width="110" height="28" rx="14" stroke-dasharray="3 3"><animate attributeName="stroke-dashoffset" values="0;-6" dur="1.3s" repeatCount="indefinite"/></rect>
+      <rect x="499" y="22" width="89" height="28" rx="14" stroke-dasharray="3 3"><animate attributeName="stroke-dashoffset" values="0;-6" dur="1.3s" repeatCount="indefinite"/></rect>
+      <rect x="598" y="22" width="89" height="28" rx="14" stroke-dasharray="3 3"><animate attributeName="stroke-dashoffset" values="0;-6" dur="1.3s" repeatCount="indefinite"/></rect>
+      <rect x="697" y="22" width="46" height="28" rx="14" stroke-dasharray="3 3"><animate attributeName="stroke-dashoffset" values="0;-6" dur="1.3s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="159" y="40" text-anchor="middle">DATA VIZ</text>
+    <text x="258" y="40" text-anchor="middle">MODEL EVAL</text>
+    <text x="342.5" y="40" text-anchor="middle">LLMs</text>
+    <text x="434" y="40" text-anchor="middle">TRANSFORMERS</text>
+    <text x="543.5" y="40" text-anchor="middle">PROMPTING</text>
+    <text x="642.5" y="40" text-anchor="middle">LANGCHAIN</text>
+    <text x="720" y="40" text-anchor="middle">RAG</text>
+  </g>
+</svg>

@@ -44,12 +44,11 @@
 
 <h2 align="center">▛ WHAT I BUILD</h2>
 
-| module | in practice |
-|---|---|
-| **predictive data products** `● live` | ocean data visualisation & prediction → `ocean-bed` |
-| **applied ai tooling** `● building` | ai-powered python code analysis → `forge-ai` |
-| **genai systems** `● studying` | llm pipelines · prompt design · retrieval patterns — *learning in public* |
-| **team execution** `● active` | leading & coordinating an ai product engineer team @ uptoskills |
+<div align="center">
+
+<img src="assets/modules.svg" alt="Four build modules: predictive data products (live — ocean-bed), applied AI tooling (building — forge-ai), GenAI systems (studying — learning in public), team execution (active — AI Product Engineer team at UpToSkills)" width="100%" />
+
+</div>
 
 <div align="center">
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -61,7 +60,7 @@
 
 <div align="center">
 
-**languages**
+<img src="assets/rack-languages.svg" alt="Rack 01 — Languages" width="330" />
 
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="52" /></a>
 <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="52" /></a>
@@ -70,16 +69,14 @@
 
 <br/>
 
-**data science**
+<img src="assets/rack-data.svg" alt="Rack 02 — Data Science" width="330" />
 
 <a href="https://numpy.org"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="52" /></a>
 <a href="https://pandas.pydata.org"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="52" /></a>
-<img src="https://img.shields.io/badge/data_viz-visualization-0E7490?style=flat-square&amp;labelColor=0b1420" alt="Data visualization" />
-<img src="https://img.shields.io/badge/model_eval-metrics_%26_validation-0E7490?style=flat-square&amp;labelColor=0b1420" alt="Model evaluation" />
 
 <br/>
 
-**ai · ml — deep in study**
+<img src="assets/rack-aiml.svg" alt="Rack 03 — AI and ML, deep in study" width="330" />
 
 <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="52" /></a>
 <a href="https://keras.io"><img src="https://skillicons.dev/icons?i=keras" alt="Keras" width="52" /></a>
@@ -88,17 +85,13 @@
 
 <br/>
 
-**generative ai — active exploration**
+<img src="assets/rack-genai.svg" alt="Rack 04 — Generative AI exploration" width="330" />
 
-<img src="https://img.shields.io/badge/LLMs-exploring-8B5CF6?style=flat-square&amp;labelColor=16112b" alt="LLMs — exploring" />
-<img src="https://img.shields.io/badge/Transformers-exploring-8B5CF6?style=flat-square&amp;labelColor=16112b" alt="Transformers — exploring" />
-<img src="https://img.shields.io/badge/Prompt_Eng-exploring-8B5CF6?style=flat-square&amp;labelColor=16112b" alt="Prompt engineering — exploring" />
-<img src="https://img.shields.io/badge/LangChain-exploring-8B5CF6?style=flat-square&amp;labelColor=16112b" alt="LangChain — exploring" />
-<img src="https://img.shields.io/badge/RAG-exploring-8B5CF6?style=flat-square&amp;labelColor=16112b" alt="Retrieval-Augmented Generation — exploring" />
+<img src="assets/focus-rack.svg" alt="Focus areas in active study: Data Viz, Model Eval, LLMs, Transformers, Prompting, LangChain, RAG" width="100%" />
 
 <br/>
 
-**tools · web**
+<img src="assets/rack-tools.svg" alt="Rack 05 — Tools and Web" width="330" />
 
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="52" /></a>
 <a href="https://github.com/ms2oo5"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="52" /></a>
@@ -210,13 +203,32 @@ uptoskills :: ai product engineer team
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ms2oo5&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;icon_color=38bdf8&amp;text_color=e6edf3" alt="GitHub statistics for ms2oo5 — stars, commits, PRs, issues and contributions" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms2oo5&amp;layout=compact&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;text_color=e6edf3&amp;langs_count=8" alt="Most used languages of ms2oo5 on GitHub" width="38%" />
+<img src="assets/telemetry-console.svg" alt="Telemetry console — live GitHub feed, sources verified, snake via actions" width="100%" />
 
-<img src="https://streak-stats.demolab.com?user=ms2oo5&amp;locale=en&amp;hide_border=true&amp;background=05070D&amp;stroke=1E2A45&amp;ring=22D3EE&amp;fire=8B5CF6&amp;currStreakNum=E6EDF3&amp;sideNums=67E8F9&amp;sideLabels=8B949E&amp;dates=64748B&amp;currStreakLabel=67E8F9" alt="GitHub contribution streak for ms2oo5" width="70%" />
+<br/>
+
+<table>
+<tr>
+<td width="52%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ms2oo5&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;icon_color=38bdf8&amp;text_color=e6edf3" alt="GitHub statistics for ms2oo5 — stars, commits, PRs, issues and contributions" width="100%" />
+
+</td>
+<td width="46%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms2oo5&amp;layout=compact&amp;hide_border=true&amp;bg_color=0,05070d,0a1020&amp;title_color=67e8f9&amp;text_color=e6edf3&amp;langs_count=8" alt="Most used languages of ms2oo5 on GitHub" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=ms2oo5&amp;locale=en&amp;hide_border=true&amp;background=05070D&amp;stroke=1E2A45&amp;ring=22D3EE&amp;fire=8B5CF6&amp;currStreakNum=E6EDF3&amp;sideNums=67E8F9&amp;sideLabels=8B949E&amp;dates=64748B&amp;currStreakLabel=67E8F9" alt="GitHub contribution streak for ms2oo5" width="66%" />
 
 <!-- Contribution snake — generated daily by .github/workflows/snake.yml into the `output` branch.
      Fallback if the action hasn't run yet: this block simply shows nothing until the first run completes. -->
+
+<sub>▾ contribution snake — real contribution grid · refreshes automatically</sub>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ms2oo5/ms2oo5/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ms2oo5/ms2oo5/output/github-contribution-grid-snake.svg" />
